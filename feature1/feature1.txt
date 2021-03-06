@@ -2,4 +2,4 @@ I am testing to add a new feature on local thgen push to remote
 then fetch it from other machine / folder
 I added this line in feature from different directory to test
 I want to push this to master remote
-
+Added this line per PR review eomments
