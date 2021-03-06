@@ -1,0 +1,3 @@
+Added this file in remote to test commit is behind in local
+Added one more line to test fetch
+Added this line per PR review comments
